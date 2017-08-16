@@ -9,4 +9,4 @@ one more commit
 
 one more commit down the line
 
-Hello This is Edit 2
+Hello After Merger, This was Edit 1 in Testing Branch and Edit 2 in Master branch.
