@@ -6,7 +6,8 @@ I am fine how are you.
 Next commit
 
 one more commit
-
+Next commit for fetch
 one more commit down the line
-
+another commit for fetch
 Hello After Merger, This was Edit 1 in Testing Branch and Edit 2 in Master branch.
+>>>>>>> 89ce9a260b40e096d8720df401d7a6ad5283fdbd
